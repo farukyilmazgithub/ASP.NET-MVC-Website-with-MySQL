@@ -1,0 +1,1546 @@
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/appsettings.Development.json
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/appsettings.json
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/mvc
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/mvc.deps.json
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/mvc.runtimeconfig.json
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/mvc.runtimeconfig.dev.json
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/mvc.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ref/mvc.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/mvc.pdb
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/mvc.Views.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/mvc.Views.pdb
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.csproj.AssemblyReference.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.AssemblyInfoInputs.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.AssemblyInfo.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.csproj.CoreCompileInputs.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.Manifest.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.xml
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/scopedcss/bundle/mvc.styles.css
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.TagHelpers.input.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.TagHelpers.output.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.RazorCoreGenerate.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.Views.pdb
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.dll
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/ref/mvc.dll
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.pdb
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.genruntimeconfig.cache
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/mvc.csproj.CopyComplete
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Humanizer.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.Composition.Convention.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.Composition.Hosting.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.Composition.Runtime.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Google.Protobuf.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/MySql.Data.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Zstandard.Net.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/MySqlConnector.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/user/Dosyalar/mvc/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/Razor/Views/Text/Create.cshtml.g.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/Razor/Views/Text/Delete.cshtml.g.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/Razor/Views/Text/Details.cshtml.g.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/Razor/Views/Text/Edit.cshtml.g.cs
+/home/user/Dosyalar/mvc/obj/Debug/net5.0/Razor/Views/Text/Index.cshtml.g.cs
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/appsettings.Development.json
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/appsettings.json
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/mvc
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/mvc.deps.json
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/mvc.runtimeconfig.json
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/mvc.runtimeconfig.dev.json
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/mvc.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ref/mvc.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/mvc.pdb
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/mvc.Views.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/mvc.Views.pdb
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Google.Protobuf.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Humanizer.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/MySql.Data.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Zstandard.Net.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/MySqlConnector.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.Composition.Convention.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.Composition.Hosting.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.Composition.Runtime.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/user/Dosyalar/myapp/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.csproj.AssemblyReference.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.AssemblyInfoInputs.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.AssemblyInfo.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.csproj.CoreCompileInputs.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.Manifest.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.xml
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/scopedcss/bundle/mvc.styles.css
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.TagHelpers.input.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.TagHelpers.output.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.RazorCoreGenerate.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/Razor/Views/Text/Create.cshtml.g.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/Razor/Views/Text/Delete.cshtml.g.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/Razor/Views/Text/Details.cshtml.g.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/Razor/Views/Text/Edit.cshtml.g.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/Razor/Views/Text/Index.cshtml.g.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cache
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cs
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.Views.pdb
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.csproj.CopyComplete
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.dll
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/ref/mvc.dll
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.pdb
+/home/user/Dosyalar/myapp/obj/Debug/net5.0/mvc.genruntimeconfig.cache
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/appsettings.Development.json
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/appsettings.json
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/mvc
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/mvc.deps.json
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/mvc.runtimeconfig.json
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/mvc.runtimeconfig.dev.json
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/mvc.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ref/mvc.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/mvc.pdb
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/mvc.Views.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/mvc.Views.pdb
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Google.Protobuf.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Humanizer.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/MySql.Data.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Zstandard.Net.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/MySqlConnector.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.Composition.Convention.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.Composition.Hosting.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.Composition.Runtime.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/user/Masaüstü/mvc/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.csproj.AssemblyReference.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.AssemblyInfoInputs.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.AssemblyInfo.cs
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.csproj.CoreCompileInputs.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cs
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.Manifest.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.xml
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/scopedcss/bundle/mvc.styles.css
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.TagHelpers.input.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.TagHelpers.output.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.RazorCoreGenerate.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cs
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.Views.pdb
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.csproj.CopyComplete
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.dll
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/ref/mvc.dll
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.pdb
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/mvc.genruntimeconfig.cache
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/user/Masaüstü/mvc/obj/Debug/net5.0/Razor/Views/Login/Index.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/appsettings.Development.json
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/appsettings.json
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/mvc
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/mvc.deps.json
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/mvc.runtimeconfig.json
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/mvc.runtimeconfig.dev.json
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/mvc.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ref/mvc.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/mvc.pdb
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/mvc.Views.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/mvc.Views.pdb
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Google.Protobuf.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Humanizer.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/MySql.Data.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Zstandard.Net.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/MySqlConnector.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Composition.Convention.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Composition.Hosting.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Composition.Runtime.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.csproj.AssemblyReference.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.AssemblyInfoInputs.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.AssemblyInfo.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.csproj.CoreCompileInputs.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.Manifest.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.xml
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/scopedcss/bundle/mvc.styles.css
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.TagHelpers.input.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.TagHelpers.output.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.RazorCoreGenerate.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Login/Index.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Shared/_MainMenu.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Create.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Delete.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Details.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Edit.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Index.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cache
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.Views.pdb
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.csproj.CopyComplete
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.dll
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/ref/mvc.dll
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.pdb
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/mvc.genruntimeconfig.cache
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/JetBrains.Annotations.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.AspNetCore.Authorization.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.AspNetCore.Metadata.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.Extensions.Localization.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Microsoft.Extensions.Localization.Abstractions.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Nito.AsyncEx.Context.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Nito.AsyncEx.Coordination.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Nito.AsyncEx.Tasks.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Nito.Collections.Deque.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Nito.Disposables.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Linq.Dynamic.Core.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/System.Text.Encodings.Web.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/TimeZoneConverter.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Auditing.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Authorization.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Authorization.Abstractions.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.BlobStoring.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Core.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Data.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Ddd.Application.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Ddd.Application.Contracts.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Ddd.Domain.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.EventBus.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.EventBus.Abstractions.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.ExceptionHandling.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Features.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.GlobalFeatures.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Guids.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Http.Abstractions.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Json.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Localization.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Localization.Abstractions.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.MultiTenancy.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.ObjectExtending.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.ObjectMapping.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Security.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Settings.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Specifications.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Threading.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Timing.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Uow.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Validation.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.Validation.Abstractions.dll
+/home/user/Masaüstü/mvc (kopya 1)/bin/Debug/net5.0/Volo.Abp.VirtualFileSystem.dll
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Create.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Delete.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Details.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Edit.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Index.cshtml.g.cs
+/home/user/Masaüstü/mvc (kopya 1)/obj/Debug/net5.0/Razor/Views/Site/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/appsettings.Development.json
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/appsettings.json
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/mvc
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/mvc.deps.json
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/mvc.runtimeconfig.json
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/mvc.runtimeconfig.dev.json
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/mvc.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ref/mvc.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/mvc.pdb
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/mvc.Views.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/mvc.Views.pdb
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Google.Protobuf.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Humanizer.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/JetBrains.Annotations.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.AspNetCore.Authorization.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.AspNetCore.Metadata.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.Extensions.Localization.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.Extensions.Localization.Abstractions.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/MySql.Data.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Zstandard.Net.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/MySqlConnector.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Nito.AsyncEx.Context.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Nito.AsyncEx.Coordination.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Nito.AsyncEx.Tasks.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Nito.Collections.Deque.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Nito.Disposables.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Composition.Convention.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Composition.Hosting.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Composition.Runtime.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Linq.Dynamic.Core.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/System.Text.Encodings.Web.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/TimeZoneConverter.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Auditing.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Authorization.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Authorization.Abstractions.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.BlobStoring.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Core.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Data.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Ddd.Application.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Ddd.Application.Contracts.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Ddd.Domain.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.EventBus.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.EventBus.Abstractions.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.ExceptionHandling.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Features.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.GlobalFeatures.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Guids.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Http.Abstractions.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Json.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Localization.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Localization.Abstractions.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.MultiTenancy.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.ObjectExtending.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.ObjectMapping.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Security.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Settings.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Specifications.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Threading.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Timing.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Uow.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Validation.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.Validation.Abstractions.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/Volo.Abp.VirtualFileSystem.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/user/Masaüstü/xxxx/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.csproj.AssemblyReference.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.AssemblyInfoInputs.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.AssemblyInfo.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.csproj.CoreCompileInputs.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.Manifest.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.xml
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/scopedcss/bundle/mvc.styles.css
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.TagHelpers.input.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.TagHelpers.output.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.RazorCoreGenerate.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Employees/Create.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Employees/Delete.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Employees/Details.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Employees/Edit.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Shared/_MainMenu.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Site/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.Views.pdb
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.csproj.CopyComplete
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.dll
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/ref/mvc.dll
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.pdb
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/mvc.genruntimeconfig.cache
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/AdminPanel/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/ActivePage/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Texts/Create.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Texts/Delete.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Texts/Details.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Texts/Edit.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Texts/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Employees/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Login/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx/obj/Debug/net5.0/Razor/Views/Login/LogOut.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/appsettings.Development.json
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/appsettings.json
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/mvc
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/mvc.deps.json
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/mvc.runtimeconfig.json
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/mvc.runtimeconfig.dev.json
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/mvc.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ref/mvc.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/mvc.pdb
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/mvc.Views.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/mvc.Views.pdb
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Google.Protobuf.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Humanizer.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/JetBrains.Annotations.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.AspNetCore.Authorization.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.AspNetCore.Metadata.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.Extensions.Localization.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.Extensions.Localization.Abstractions.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/MySql.Data.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Zstandard.Net.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/MySqlConnector.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Nito.AsyncEx.Context.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Nito.AsyncEx.Coordination.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Nito.AsyncEx.Tasks.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Nito.Collections.Deque.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Nito.Disposables.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Composition.Convention.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Composition.Hosting.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Composition.Runtime.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Linq.Dynamic.Core.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/System.Text.Encodings.Web.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/TimeZoneConverter.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Auditing.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Authorization.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Authorization.Abstractions.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.BlobStoring.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Core.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Data.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Ddd.Application.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Ddd.Application.Contracts.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Ddd.Domain.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.EventBus.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.EventBus.Abstractions.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.ExceptionHandling.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Features.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.GlobalFeatures.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Guids.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Http.Abstractions.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Json.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Localization.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Localization.Abstractions.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.MultiTenancy.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.ObjectExtending.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.ObjectMapping.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Security.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Settings.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Specifications.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Threading.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Timing.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Uow.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Validation.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.Validation.Abstractions.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/Volo.Abp.VirtualFileSystem.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/user/Masaüstü/xxxx (kopya 1)/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.csproj.AssemblyReference.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.AssemblyInfoInputs.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.AssemblyInfo.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.csproj.CoreCompileInputs.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.RazorAssemblyInfo.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.Manifest.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/staticwebassets/mvc.StaticWebAssets.xml
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/scopedcss/bundle/mvc.styles.css
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.TagHelpers.input.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.TagHelpers.output.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.RazorCoreGenerate.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/ActivePage/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/AdminPanel/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Create.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Delete.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Details.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Edit.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Employees/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Login/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Login/LogOut.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Shared/_MainMenu.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Site/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Create.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Delete.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Details.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Edit.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/Texts/Index.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cache
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.RazorTargetAssemblyInfo.cs
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.Views.pdb
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.csproj.CopyComplete
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.dll
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/ref/mvc.dll
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.pdb
+/home/user/Masaüstü/xxxx (kopya 1)/obj/Debug/net5.0/mvc.genruntimeconfig.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\appsettings.Development.json
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\appsettings.json
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\mvc.exe
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\mvc.deps.json
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\mvc.runtimeconfig.json
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\mvc.runtimeconfig.dev.json
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\mvc.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ref\mvc.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\mvc.pdb
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\mvc.Views.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\mvc.Views.pdb
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Humanizer.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.Extensions.Localization.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\MySql.Data.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Zstandard.Net.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\MySqlConnector.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Nito.Disposables.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\TimeZoneConverter.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Auditing.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Authorization.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Authorization.Abstractions.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.BlobStoring.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Core.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Data.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Ddd.Application.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Ddd.Application.Contracts.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Ddd.Domain.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.EventBus.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.EventBus.Abstractions.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.ExceptionHandling.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Features.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.GlobalFeatures.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Guids.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Http.Abstractions.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Json.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Localization.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Localization.Abstractions.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.MultiTenancy.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.ObjectExtending.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.ObjectMapping.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Security.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Settings.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Specifications.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Threading.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Timing.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Uow.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Validation.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.Validation.Abstractions.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\Volo.Abp.VirtualFileSystem.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.csproj.AssemblyReference.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.AssemblyInfoInputs.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.AssemblyInfo.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.MvcApplicationPartsAssemblyInfo.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.RazorAssemblyInfo.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.RazorAssemblyInfo.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\staticwebassets\mvc.StaticWebAssets.Manifest.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\staticwebassets\mvc.StaticWebAssets.xml
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\scopedcss\bundle\mvc.styles.css
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.TagHelpers.input.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.TagHelpers.output.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.RazorCoreGenerate.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\AdminPanel\Index.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Login\LogOut.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Site\Index.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Create.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Delete.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Details.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Edit.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Index.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.RazorTargetAssemblyInfo.cache
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.RazorTargetAssemblyInfo.cs
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.Views.pdb
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.csproj.CopyComplete
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\ref\mvc.dll
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.pdb
+D:\Dosyalar\Dersler\Projeler\mvc (site)\obj\Debug\net5.0\mvc.genruntimeconfig.cache
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\appsettings.json
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\mvc.exe
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\mvc.deps.json
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\mvc.runtimeconfig.json
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\mvc.runtimeconfig.dev.json
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\mvc.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ref\mvc.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\mvc.pdb
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\mvc.Views.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\mvc.Views.pdb
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.Extensions.Localization.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Nito.Collections.Deque.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Nito.Disposables.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\TimeZoneConverter.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Auditing.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Authorization.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Authorization.Abstractions.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.BlobStoring.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Core.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Data.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Ddd.Application.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Ddd.Application.Contracts.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Ddd.Domain.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.EventBus.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.EventBus.Abstractions.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.ExceptionHandling.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Features.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.GlobalFeatures.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Guids.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Http.Abstractions.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Json.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Localization.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Localization.Abstractions.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.MultiTenancy.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.ObjectExtending.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.ObjectMapping.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Security.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Settings.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Specifications.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Threading.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Timing.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Uow.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Validation.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.Validation.Abstractions.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\Volo.Abp.VirtualFileSystem.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rogue\Desktop\mvc (site)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.csproj.AssemblyReference.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.AssemblyInfoInputs.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.AssemblyInfo.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.csproj.CoreCompileInputs.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.RazorAssemblyInfo.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.RazorAssemblyInfo.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\staticwebassets\mvc.StaticWebAssets.Manifest.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\staticwebassets\mvc.StaticWebAssets.xml
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\scopedcss\bundle\mvc.styles.css
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.TagHelpers.input.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.TagHelpers.output.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.RazorCoreGenerate.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\ActivePage\Index.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\AdminPanel\Index.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Login\LogOut.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Site\Index.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Create.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Delete.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Details.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Edit.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\Texts\Index.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.RazorTargetAssemblyInfo.cache
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.RazorTargetAssemblyInfo.cs
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.Views.pdb
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.csproj.CopyComplete
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.dll
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\ref\mvc.dll
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.pdb
+C:\Users\rogue\Desktop\mvc (site)\obj\Debug\net5.0\mvc.genruntimeconfig.cache
